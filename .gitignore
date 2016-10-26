@@ -18,3 +18,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 java8-assertj-spark-swagger.iml
 .idea
+*.iml
