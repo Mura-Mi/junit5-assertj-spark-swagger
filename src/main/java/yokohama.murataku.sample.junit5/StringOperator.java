@@ -12,6 +12,8 @@ public class StringOperator {
         this.joiner = joiner;
     }
 
-
+    public String join(String a, String b) {
+        return a + joiner + b;
+    }
 
 }
