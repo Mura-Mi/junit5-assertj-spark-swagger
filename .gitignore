@@ -19,3 +19,5 @@ gradle-app.setting
 java8-assertj-spark-swagger.iml
 .idea
 *.iml
+junit5-assertj-spark-swagger.ipr
+junit5-assertj-spark-swagger.iws
